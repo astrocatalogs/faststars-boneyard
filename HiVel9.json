@@ -34,14 +34,6 @@
 				"secondary":true,
 				"url":"https://sne.space",
 				"alias":"5"
-			},
-			{
-				"name":"SIMBAD astronomical database",
-				"bibcode":"2000A&AS..143....9W",
-				"reference":"Wenger et al. (2000)",
-				"secondary":true,
-				"url":"http://simbad.u-strasbg.fr/",
-				"alias":"6"
 			}
 		],
 		"alias":[
@@ -56,22 +48,6 @@
 			{
 				"value":"Gaia DR1 124583",
 				"source":"1"
-			},
-			{
-				"value":"TYC 1471-328-1",
-				"source":"6"
-			},
-			{
-				"value":"GaiaDR2 1245838315988483968",
-				"source":"6"
-			},
-			{
-				"value":"GaiaDR1 1245838311692516608",
-				"source":"6"
-			},
-			{
-				"value":"2MASS J14092798+1841071",
-				"source":"6"
 			}
 		],
 		"boundprobability":[
@@ -109,7 +85,7 @@
 					}
 				],
 				"e_u_value":"mas",
-				"e_value":"0.03",
+				"e_value":"0.0367282",
 				"u_value":"dms",
 				"source":"3"
 			}
@@ -195,7 +171,7 @@
 					}
 				],
 				"e_u_value":"mas",
-				"e_value":"0.0384",
+				"e_value":"0.0470122",
 				"u_value":"mas",
 				"source":"3"
 			}
@@ -226,7 +202,7 @@
 					}
 				],
 				"e_u_value":"mas/yr",
-				"e_value":"0.062",
+				"e_value":"0.075905",
 				"u_value":"mas/yr",
 				"source":"3"
 			}
@@ -257,7 +233,7 @@
 					}
 				],
 				"e_u_value":"mas/yr",
-				"e_value":"0.065",
+				"e_value":"0.0795779",
 				"u_value":"mas/yr",
 				"source":"3"
 			}
@@ -288,7 +264,7 @@
 					}
 				],
 				"e_u_value":"mas",
-				"e_value":"0.0225",
+				"e_value":"0.0275462",
 				"u_value":"hms",
 				"source":"3"
 			}
@@ -318,9 +294,9 @@
 				"source":"5"
 			},
 			{
-				"value":"249.36",
+				"value":"249.356",
 				"derived":true,
-				"e_value":"9.27199",
+				"e_value":"9.27202",
 				"kind":[
 					"galactocentric",
 					"total"
